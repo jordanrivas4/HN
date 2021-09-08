@@ -1,3 +1,16 @@
 #EXTINF:0, HN Activa TV
 http://200.58.160.67:8081/envivo/activatv/playlist.m3u8
-
+#EXTINF: -1, Canal CCI
+http://stream.innovandote.com:1935/cci/cci/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w733100229.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, Si TV
+https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, DIEZ Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, Teleceiba Canal 7
+http://bit.ly/2NLhkKX?checkedby:iptvcat.com
