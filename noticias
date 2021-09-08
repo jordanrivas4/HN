@@ -1,0 +1,10 @@
+#EXTINF:-1 user-agent="elplayer", BBC World
+https://ipeteve.com/php/SR_REGIO_040921/regiotv2.php?c=8
+#EXTINF:-1 user-agent="elplayer", Bloomberg
+https://ipeteve.com/php/SR_REGIO_040921/regiotv2.php?c=10
+#EXTINF:-1 user-agent="elplayer", CNN Espanol
+https://ipeteve.com/php/SR_REGIO_040921/regiotv2.php?c=11
+#EXTINF:-1 user-agent="elplayer", CNN Internacional
+https://ipeteve.com/php/SR_REGIO_040921/regiotv2.php?c=12
+#EXTINF:-1 user-agent="elplayer", Cable Noticias
+https://ipeteve.com/php/SR_REGIO_040921/regiotv2.php?c=13
